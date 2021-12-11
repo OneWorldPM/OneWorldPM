@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **OneWorldPM/OneWorldPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+
+  <img width="200" src="https://owpm.com/img/logo.png" alt="OWPM Logo">
+  <p>It was One World Presentation Management Ltd. who designed many of the IT Solutions that first guided medical meetings into the computer era. Staffed by consultants and technology experts, One World brings over 30 years of meeting experience and technology development to today's conference community.
+
+We are software developers and service providers who work side by side with every-day users from the inception of an idea, to projection to the audience in the session room. No other company works with program committees, directors and submitters from the inception of a meeting, and then also guides and assists organizers, audio visual, and presenters at the actual meeting</p>
+</p>
